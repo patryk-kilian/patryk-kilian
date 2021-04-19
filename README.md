@@ -7,4 +7,4 @@ I'm a self taught and creative frontend developer striving to grow myself and co
 [<img align="left" alt="Patryk Kilian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-Check out my recent React Social Media app: [deployed site](https://social-media-pkilian.netlify.app/)
+Check out my recent React Social Media app: [Deployed](https://social-media-pkilian.netlify.app/) and [Code](https://github.com/patryk-kilian/social-media)
