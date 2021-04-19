@@ -8,4 +8,4 @@ I'm a self taught and creative frontend developer striving to grow myself and co
 
 <br />
 <br />
-Check out my recent React Social Media app: [Deployed](https://social-media-pkilian.netlify.app/) and [Code](https://github.com/patryk-kilian/social-media)
+Check out my recent React Social Media app: [deployed site](https://social-media-pkilian.netlify.app/)
